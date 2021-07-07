@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-export SYSTEM "http://xml.evernote.com/pub/evernote-export4.dtd">
+<en-export export-date="20210807T171334Z" application="Evernote" version="10.16.7">
+  <note>
+    <title>Elementor Course</title>
+    <created>20210705T144103Z</created>
+    <updated>20210705T152050Z</updated>
+    <note-attributes>
+      <author>Armaan merchant</author>
+    </note-attributes>
+    <content>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note><div>Elementor editor settings:</div><div>You can choose to set your title, page layout and style. This includes changing the background colour</div><div><br /></div><div>Global values:</div><div>-Elementor will use these global values to create similar things in that style.</div><div>-Primary colours -  h1 and h2</div><div>-Secondary colours - h3 to h6</div><div>-Global Fonts</div><div><br /></div><div>How elementor works:</div><en-media style="--en-naturalWidth:1040; --en-naturalHeight:656;" hash="52bf78cd4073d7bb09d1d45f4700a95e" type="image/png" /><div><br /></div><div><br /></div></en-note>      ]]>
+    </content>
+  </note>
+</en-export>
